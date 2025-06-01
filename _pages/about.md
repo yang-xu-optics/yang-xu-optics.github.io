@@ -1,32 +1,24 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+About Me
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I'm a Ph.D. candidate in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, quantum imaging, and quantum frequency conversion. Most of my research work aims to extend our application of the nonlinear optical processes of common and exotic nonlinear materials. Currently, I am interested in exploring exciting new applications of the large sub-picosecond-level nonlinear optical response from epsilon-near-zero (ENZ) materials. On the quantum side, I have been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
+
+Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from [Columbia University](https://www.columbia.edu/) in 2019. 
+You can find my CV here: [Yang Xu's Curriculum Vitae](https://www.columbia.edu/)
+
+Recent News and Events
+------
+May 8, 2025 -- I will be giving a talk on my recent progress of the ENZ-based time gating at CLEO 2025 Long Beach. Check out the schedule and come to 103 B at 4 PM! 
+
+April 14, 2025 -- My REU mentee, Alex Mavian from RPI, will be attending Yale for his graduate studies. My post-bac mentee, Jiaqi Wang, will join the PhD program at CREOL this year. Congratulations to both of them!
+
+April 7, 2025 -- My work with Cisco on scalable reconfigurable quantum networks is now online on arXiv!
+
+March 27, 2025 -- My work on ENZ-based time-gate is now online on arXiv. We made an ultrafast time gate on ITO that improved the scattering rejection effect by two orders of magnitude!
+
+Jan 13, 2025 -- The work on fast quantum ghost imaging with my REU student, Alex Mavian, is published in Optics Letters. 
+
+
+
 
 Create content & metadata
 ------
