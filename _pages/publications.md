@@ -4,7 +4,7 @@ title: "publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publications
 ---
 
 {% include base_path %}
