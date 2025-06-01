@@ -11,9 +11,9 @@ May 8, 2025 -- I will be giving a talk on my recent progress of the ENZ-based ti
 
 April 14, 2025 -- My REU mentee, Alex Mavian from RPI, will be attending Yale for his graduate studies. My post-bac mentee, Jiaqi Wang, will join the PhD program at CREOL this year. Congratulations to both of them!
 
-April 7, 2025 -- My work with Cisco on scalable reconfigurable quantum networks is now online on arXiv!
+April 7, 2025 -- My work with Cisco on scalable reconfigurable quantum networks is now online on [arXiv](https://arxiv.org/abs/2504.05567)!
 
-March 27, 2025 -- My work on ENZ-based time-gate is now online on arXiv. We made an ultrafast time gate on ITO that improved the scattering rejection effect by two orders of magnitude!
+March 27, 2025 -- My work on ENZ-based time-gate is now online on [arXiv](https://arxiv.org/abs/2503.21113). We made an ultrafast time gate on ITO that improved the scattering rejection effect by two orders of magnitude!
 
-Jan 13, 2025 -- The work on fast quantum ghost imaging with my REU student, Alex Mavian, is published in Optics Letters. 
+Jan 13, 2025 -- My work on fast quantum ghost imaging with my REU student, Alex Mavian, is published in [Optics Letters](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-2-594&id=566940). 
 
