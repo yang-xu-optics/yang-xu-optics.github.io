@@ -7,7 +7,8 @@ author_profile: true
 
 In Preparation
 ======
-1. Hao Zhang*, <ins>Yang Xu</ins>* , Wenwen Zhang, Saumya Choudhary, Robert W. Boyd, and Sergio Carbajo. Hybrid-supervised deep reconstruction from ENZ time-gated optical scattering-free for sensing applications (2025)
+(‡ = equal contribution)
+1. Hao Zhang‡, <ins>Yang Xu</ins>‡ , Wenwen Zhang, Saumya Choudhary, Robert W. Boyd, and Sergio Carbajo. Hybrid-supervised deep reconstruction from ENZ time-gated optical scattering-free for sensing applications (2025)
 2. Jiaqi Wang, <ins>Yang Xu</ins>, Saumya Choudhary, Omid Mozafar, and Robert W. Boyd. Suppressed self-focusing effect of scalar beams with grid structures (2025)
 3. Luchang Niu, <ins>Yang Xu</ins>, Saleem Iqbal, and Robert W. Boyd. Distance-dependence of photon entanglement through turbulence (2025)
 4. <ins>Yang Xu</ins>, Luchang Niu, Girish Kulkarni, and Robert W. Boyd. The effect of phase-matching condition on transverse spatial entanglement in high-gain SPDC (2025)
@@ -15,7 +16,7 @@ In Preparation
 Preprints
 ======
 1. Jiapeng Zhao, <ins>Yang Xu</ins>, Hassan Shapourian, Robert W. Boyd, and Reza Nejabati. [Scalable MHz rate quantum entanglement distribution network with reduced latency](https://arxiv.org/abs/2504.05567). _arXiv:2504.05567_ (2025)
-2. <ins>Yang Xu</ins>*, Saumya Choudhary*, Long D. Nguyen, Matthew Klein, Shivashankar Vangala, J. Keith Miller, Eric G. Johnson, Joshua R. Hendrickson, M. Zahirul Alam, and Robert W. Boyd. [High-fidelity spatial information transfer through dynamic scattering media by an epsilon-near-zero time-gate](https://arxiv.org/abs/2503.21113). _arXiv:2503:21113_ (2025).
+2. <ins>Yang Xu</ins>‡, Saumya Choudhary‡, Long D. Nguyen, Matthew Klein, Shivashankar Vangala, J. Keith Miller, Eric G. Johnson, Joshua R. Hendrickson, M. Zahirul Alam, and Robert W. Boyd. [High-fidelity spatial information transfer through dynamic scattering media by an epsilon-near-zero time-gate](https://arxiv.org/abs/2503.21113). _arXiv:2503:21113_ (2025).
 
 Published Journal Articles
 ======
