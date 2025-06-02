@@ -10,7 +10,8 @@ redirect_from:
 I'm a Ph.D. candidate in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, quantum imaging, and quantum frequency conversion. Most of my research work aims to extend our application of the nonlinear optical processes of common and exotic nonlinear materials. Currently, I am interested in exploring exciting new applications of the large sub-picosecond-level nonlinear optical response from epsilon-near-zero (ENZ) materials. On the quantum side, I have been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
 
 Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from [Columbia University](https://www.columbia.edu/) in 2019. 
-You can find my CV here: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_Xu_CV.pdf)
+
+Please find my CV here: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_Xu_CV.pdf)
 
 Recent News and Events
 ------
