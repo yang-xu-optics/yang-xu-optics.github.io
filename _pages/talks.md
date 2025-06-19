@@ -6,7 +6,7 @@ author_profile: true
 ---
 Upcoming Talks
 ======
-Please stay tuned for updates!
+1. “High-fidelity spatial information transfer through scattering media by an epsilon-near-zero time gate,” Optica Nonlinear Optics Topical Meeting, Honolulu, HI, August 4–7, 2025
    
 Conferences and Seminars
 ======
