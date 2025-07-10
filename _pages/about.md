@@ -15,6 +15,8 @@ Please find my CV here: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.gith
 
 Recent News and Events
 ------
+August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
+
 May 8, 2025 -- I will be giving a talk on my recent progress of the ENZ-based time gating at CLEO 2025 Long Beach. Check out the schedule and come to 103 B at 4 PM! 
 
 April 14, 2025 -- My REU mentee, Alex Mavian from RPI, will be attending Yale for his graduate studies. My post-bac mentee, Jiaqi Wang, will join the PhD program at CREOL this year. Congratulations to both of them!
