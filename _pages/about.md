@@ -15,6 +15,8 @@ Please find my CV here: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.gith
 
 Recent News and Events
 ------
+November 10, 2025 -- I will be joining Prof. [Peter McMahon's group](https://mcmahon.aep.cornell.edu/index.html) as a NTT postdoctoral fellow at Cornell University in February 2026!
+
 August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
 
 May 8, 2025 -- I will be giving a talk on my recent progress of the ENZ-based time gating at CLEO 2025 Long Beach. Check out the schedule and come to 103 B at 4 PM! 
