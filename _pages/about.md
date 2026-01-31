@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, quantum imaging, and quantum frequency conversion. Most of my research work aims to extend our application of the nonlinear optical processes of common and exotic nonlinear materials. Currently, I am interested in exploring exciting new applications of the large sub-picosecond-level nonlinear optical response from epsilon-near-zero (ENZ) materials. On the quantum side, I have been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
+I'm a postdoctoral research scientist at Cornell University and NTT Research. I did my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
 
-Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from [Columbia University](https://www.columbia.edu/) in 2019. 
+Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from Columbia University in 2019. 
 
-Please find my CV here: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_Xu_CV.pdf)
+My CV: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_Xu_CV.pdf)
 
 Recent News and Events
 ------
-November 10, 2025 -- I will be joining Prof. [Peter McMahon's group](https://mcmahon.aep.cornell.edu/index.html) as a NTT postdoctoral fellow at Cornell University in February 2026!
+February 1, 2026 -- I will be joining Prof. [Peter McMahon's group](https://mcmahon.aep.cornell.edu/index.html) as a NTT postdoctoral fellow at Cornell University!
 
 August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
 
