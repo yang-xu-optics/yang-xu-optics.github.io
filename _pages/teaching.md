@@ -20,8 +20,8 @@ Students Mentored
 ======
 1. Luchang Niu, undergraduate student, University of Rochester
    
-3. Alexander Mavian, REU student, Rensselaer Polytechnic Institute, now Ph.D. student at Yale
+3. [Alexander Mavian](https://rakichlab.yale.edu/lab-members), REU student, Rensselaer Polytechnic Institute, now Ph.D. student at Yale
    
-5. Jiaqi Wang, post-bac student, Peking University, now Ph.D. student at CREOL
+5. [Jiaqi Wang](https://creol.ucf.edu/people/graduate-students/), post-bac student, Peking University, now Ph.D. student at CREOL
    
 7. [Sirui Tang](https://bsac.berkeley.edu/people/sirui-tang), undergraduate student, University of Rochester, now Ph.D. student at UC Berkeley
