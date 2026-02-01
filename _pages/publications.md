@@ -23,7 +23,7 @@ Preprints
 
 Published Journal Articles
 ======
-1. Jiapeng Zhao, <ins>Yang Xu</ins>, Hassan Shapourian, Robert W. Boyd, and Reza Nejabati. [Scalable low-latency entanglement distribution for distributed quantum computing](https://opg.optica.org/opticaq/fulltext.cfm?uri=opticaq-3-6-606). _Optica Quantum_, 3(6):606–616 (2025)
+1. Jiapeng Zhao, <ins>Yang Xu</ins>, Xiyuan Lu, Eneet Kaur, Michael Kilzer, Ramana Kompella, Robert W. Boyd, and Reza Nejabati. [Scalable low-latency entanglement distribution for distributed quantum computing](https://opg.optica.org/opticaq/fulltext.cfm?uri=opticaq-3-6-606). _Optica Quantum_, 3(6):606–616 (2025)
 2. Alexander Mavian, <ins>Yang Xu</ins>, Cheng Li, and Robert W. Boyd. [Fast quantum ghost imaging with a single-photon-sensitive time-stamping camera.](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-2-594) _Optics Letters_, 50(2):594–597 (2025)
 3. <ins>Yang Xu</ins>, Saumya Choudhary, and Robert W. Boyd. [Stimulated emission tomography for efficient characterization of spatial entanglement](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.L042047). _Physical Review Research_, 6:L042047 (2024)
 4. Saleem Iqbal, <ins>Yang Xu</ins>, and Robert W. Boyd. [Limitations in quantum metrology approaches to imaging resolution](https://royalsocietypublishing.org/doi/10.1098/rsta.2023.0332). _Philosophical Transactions A_, 382(2287):20230332 (2024)
