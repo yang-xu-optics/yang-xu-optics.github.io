@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral research scientist at Cornell University and NTT Research. I did my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
+I will be joining Cornell University and NTT Research as a postdoctoral fellow. I have my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
 
 Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from Columbia University in 2019. 
 
@@ -15,7 +15,6 @@ My CV: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_
 
 Recent News and Events
 ------
-February 1, 2026 -- I will be joining Prof. [Peter McMahon's group](https://mcmahon.aep.cornell.edu/index.html) as a NTT postdoctoral fellow at Cornell University!
 
 August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
 
