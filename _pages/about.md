@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining Cornell University and NTT Research as a postdoctoral fellow. I have my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
+I work on nonlinear photonics at Cornell University and NTT Research as a postdoctoral fellow. I have my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
 
 Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from Columbia University in 2019. 
 
@@ -15,6 +15,13 @@ My CV: [Yang Xu's Curriculum Vitae](https://yang-xu-optics.github.io/files/Yang_
 
 Recent News and Events
 ------
+March 20, 2026 -- My new theory paper on the spatial walk-off engineering in SPDC is now online in [Optics Letters](https://opg.optica.org/ol/abstract.cfm?uri=ol-51-7-1804). 
+
+February 1, 2026 -- I am thrilled to announce that I will join [Prof. Peter McMahon's group](https://mcmahon.aep.cornell.edu/index.html) at Cornell University as a NTT postdoctoral fellow.
+
+December 16, 2025 -- New publication! My work with Cisco on Scalable low-latency entanglement distribution for distributed quantum computing is now on [Optica Quantum](https://opg.optica.org/opticaq/fulltext.cfm?uri=opticaq-3-6-606)!
+
+August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
 
 August 7, 2025 -- I will be presenting on the application of ultrafast nonlinear optics with ENZ materials at 2025 NLO Topical Meeting in Hawaii.
 
@@ -22,9 +29,9 @@ May 8, 2025 -- I will be giving a talk on my recent progress of the ENZ-based ti
 
 April 14, 2025 -- My REU mentee, Alex Mavian from RPI, will be attending Yale for his graduate studies. My post-bac mentee, Jiaqi Wang, will join the PhD program at CREOL this year. Congratulations to both of them!
 
-April 7, 2025 -- My work with Cisco on scalable reconfigurable quantum networks is now online on [arXiv](https://arxiv.org/abs/2504.05567)!
 
-March 27, 2025 -- My work on ENZ-based time-gate is now online on [arXiv](https://arxiv.org/abs/2503.21113). We made an ultrafast time gate on ITO that improved the scattering rejection effect by two orders of magnitude!
 
-Jan 13, 2025 -- My work on fast quantum ghost imaging with my REU student, Alex Mavian, is published in [Optics Letters](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-2-594&id=566940). 
+<!--March 27, 2025 -- My work on ENZ-based time-gate is now online on [arXiv](https://arxiv.org/abs/2503.21113). We made an ultrafast time gate on ITO that improved the scattering rejection effect by two orders of magnitude!-->
+
+<!--Jan 13, 2025 -- My work on fast quantum ghost imaging with my REU student, Alex Mavian, is published in [Optics Letters](https://opg.optica.org/ol/fulltext.cfm?uri=ol-50-2-594&id=566940). -->
 
