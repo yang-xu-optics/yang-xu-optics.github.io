@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I work on nonlinear photonics at Cornell University and NTT Research as a postdoctoral fellow. I have my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
+I work on nonlinear photonics at Cornell University and NTT Research as a postdoctoral fellow in [Prof. Peter McMahon's lab](https://mcmahon.aep.cornell.edu/index.html). I did my Ph.D. study in physics at the University of Rochester under the guidance of [Prof. Robert W. Boyd](https://www.hajim.rochester.edu/optics/people/faculty/boyd_robert/index.html). My research focuses on ultrafast nonlinear optics, integrated nonlinear optics and AI4photonics. Most of my research work aims to extend our application of the nonlinear optical processes of novel nonlinear optical devices. Currently, I am interested in exploring exciting new applications of programmable integrated nonlinear optics. On the other side, I have also been deeply involved in many theoretical and experimental works on quantum-enhanced imaging and microscopy schemes. 
 
 Prior to my Ph.D. study, I obtained my bachelor's degree in physics my with Magna Cum Laude from Columbia University in 2019. 
 
